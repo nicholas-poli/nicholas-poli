@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi 👋
 
-<!--
-**nicholas-poli/nicholas-poli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Software Engineer with a Computer Science background  
+Java • Spring • Microservices
 
-Here are some ideas to get you started:
+### What I focus on
+- Designing reliable backend systems
+- Clean code & maintainable architectures
+- APIs, integrations, and distributed systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech stack
+- Java, Spring Boot
+- REST, SQL
+- Docker, Git
+
+### Education
+- MSc in Computer Science — Università di Bologna  
+- BSc in Computer Science — Università degli studi di Parma
+
+
+📫 Reach me: linkedin.com/in/tuo-profilo
